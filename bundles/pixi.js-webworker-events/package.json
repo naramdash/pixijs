@@ -40,7 +40,7 @@
         "@pixi/compressed-textures": "file:../../packages/compressed-textures",
         "@pixi/core": "file:../../packages/core",
         "@pixi/display": "file:../../packages/display",
-        "@pixi/events": "file:../../packages/events",
+        "@pixi/events-for-webworker": "file:../../packages/events-for-webworker",
         "@pixi/extensions": "file:../../packages/extensions",
         "@pixi/extract": "file:../../packages/extract",
         "@pixi/filter-alpha": "file:../../packages/filter-alpha",

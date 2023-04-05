@@ -9,6 +9,7 @@ export * from '@pixi/assets';
 export * from '@pixi/compressed-textures';
 export * from '@pixi/core';
 export * from '@pixi/display';
+export * from '@pixi/events-for-webworker';
 export * from '@pixi/extract';
 export * from '@pixi/filter-alpha';
 export * from '@pixi/filter-blur';
